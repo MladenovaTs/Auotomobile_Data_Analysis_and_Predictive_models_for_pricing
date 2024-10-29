@@ -5,16 +5,16 @@ This repository contains a comprehensive exploration of an automobile dataset an
 
 ## Files and Components
 
-1. **Mladenova_BP_Data_Scientist_Technical_Assessment.ipynb**
+1. **Mladenova_Data_Analysis.ipynb**
    - Jupyter Notebook presenting detailed EDA, preprocessing steps, key visualizations, and the development of predictive models for pricing. It offers a comprehensive view of the data analysis process and model comparisons.
 
-2. **Mladenova_MCA_BP_Data_Scientist_Technical_Assessment.Rmd / .html**
+2. **Mladenova_MCA.Rmd / .html**
    - R Markdown file and its HTML output showcasing the application of Multiple Correspondence Analysis (MCA) on the dataset. This analysis provides deeper insights into categorical variables and their relationships.
 
 3. **Mladenova_RR_model_app.py**
    - Python script for a user-friendly web application built with Streamlit. The application allows users to input key data points related to automobiles and receive predicted prices based on the trained models.
 
-4. **Mladenova_BP_Data_Scientist_Technical_Assessment_LLM.ipynb**
+4. **Mladenova_LLM.ipynb**
    - Jupyter Notebook demonstrating the usage of Large Language Model (LLM) to train data and generate new rows. This illustrates an innovative approach to data augmentation and model enhancement.
 
 5. **Automobile_data.csv**
@@ -23,8 +23,8 @@ This repository contains a comprehensive exploration of an automobile dataset an
 6. **ad.csv**
    - Processed dataset derived after thorough preprocessing steps, ready for model training and evaluation.
 
-7. **BP_Data-Scientist_Technical_Assessment_v2 (1).pdf**
-   - PDF document outlining the specific requirements and guidelines for the technical assessment, providing context and objectives for the project.
+7. **Task.pdf**
+   - PDF document outlining the specific requirements and guidelines for the task, providing context and objectives for the project.
 
 8. **ridge_regression_model.pkl**
    - Pickle file storing the trained Ridge Regression model, which serves as the backend for the web application's price prediction functionality.
